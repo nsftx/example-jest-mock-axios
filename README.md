@@ -1,2 +1,2 @@
-# jest-mock-axios
+# example-jest-mock-axios
 Mock Http Axios Instance

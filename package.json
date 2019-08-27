@@ -1,5 +1,5 @@
 {
-  "name": "jest-mock-axios",
+  "name": "example-jest-mock-axios",
   "version": "1.0.0",
   "description": "Mock Axios Instance",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/manico/jest-mock-axios.git"
+    "url": "git+https://github.com/nsftx/example-jest-mock-axios.git"
   },
   "keywords": [
     "jest",
@@ -18,9 +18,9 @@
   "author": "Jadranko Dragoje <jadranko.dragoje@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/manico/jest-mock-axios/issues"
+    "url": "https://github.com/nsftx/example-jest-mock-axios/issues"
   },
-  "homepage": "https://github.com/manico/jest-mock-axios#readme",
+  "homepage": "https://github.com/nsftx/example-jest-mock-axios#readme",
   "dependencies": {
     "axios": "^0.19.0"
   },

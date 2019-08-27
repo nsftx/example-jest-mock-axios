@@ -8,8 +8,8 @@ axios.get.mockResolvedValue({
 });
 
 test('should fetch status', (done) => {
-  monitoring.isHealthy().then((status) => {
-    expect(status.status).toEqual('UP');
+  monitoring.isHealthy().then((result) => {
+    expect(result.status).toEqual('UP');
     done();
   });
 });
