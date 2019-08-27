@@ -15,7 +15,7 @@
     "mock",
     "axios"
   ],
-  "author": "Jadranko Dragoje <jadranko.dragoje@gmail.com>",
+  "author": "Jadranko Dragoje <dragoje.jadranko@nsoft.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/nsftx/example-jest-mock-axios/issues"
